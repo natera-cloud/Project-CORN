@@ -1,4 +1,4 @@
-# Popcorn-Driven-Development (PDD)
+# Project-CORN
 
 A framework for building a cost-effective, zero-cleanup snack to maximize your development resources.
 (開発リソースを最大化するための、高コストパフォーマンス・洗い物ゼロのスナック構築フレームワーク)
