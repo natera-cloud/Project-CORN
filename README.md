@@ -6,6 +6,8 @@ A framework for building a cost-effective, zero-cleanup snack to maximize your d
 
 開発リソースを最大化するための、高コストパフォーマンス・洗い物ゼロのスナック構築フレームワーク
 
+![20251027_162900](https://github.com/user-attachments/assets/b5646928-e3c6-4831-b187-da8df7fe3c3a)
+
 ## 1. Abstract (概要)
 
 In our extensive research, we have concluded that popcorn is the most cost-effective snack for developers. At an astonishingly low price of approximately 500 JPY per kg, it dramatically reduces the time and financial costs associated with snack acquisition. This allows engineers to allocate more resources to their primary objectives: electronics projects and software development.
