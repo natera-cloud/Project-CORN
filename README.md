@@ -1,21 +1,19 @@
 # Project-CORN
 
 A framework for building a cost-effective, zero-cleanup snack to maximize your development resources.
-****
-開発リソースを最大化するための、高コストパフォーマンス・洗い物ゼロのスナック構築フレームワーク
 
 ---
+
+開発リソースを最大化するための、高コストパフォーマンス・洗い物ゼロのスナック構築フレームワーク
 
 ## 1. Abstract (概要)
 
 In our extensive research, we have concluded that popcorn is the most cost-effective snack for developers. At an astonishingly low price of approximately 500 JPY per kg, it dramatically reduces the time and financial costs associated with snack acquisition. This allows engineers to allocate more resources to their primary objectives: electronics projects and software development.
-
 This repository aims to standardize a simple, zero-cleanup popcorn production protocol, enabling any developer to establish an optimal and delicious work environment.
 
-****
+---
 
 我々の研究によると、ポップコーンは開発者にとって最もコストパフォーマンスに優れたおやつである。1kgあたり約500円という驚異的な価格は、エンジニアがおやつにかける時間的・金銭的コストを劇的に削減し、本来の目的である電子工作や開発により多くのリソースを割り当てることを可能にする。
-
 このリポジトリは、手軽で洗い物を出さないポップコーンの製作手順を標準化し、誰でも最高の開発環境を構築できるようにすることを目的とする。
 
 ## 2. Dependencies (依存関係)
@@ -40,7 +38,7 @@ This repository aims to standardize a simple, zero-cleanup popcorn production pr
 5.  **`release`**: Remove the kitchen paper and rubber band. Deploy your favorite flavor of potato seasoning.
 6.  **`shake`**: Cover the opening again with the kitchen paper and shake well to distribute the seasoning.
 
-****
+---
 
 1.  **`init` (初期化)**: 計量スプーン一杯分の豆を紙コップに投入する。
 2.  **`configure` (構成)**: サラダ油を豆にまんべんなく適用する。
@@ -56,7 +54,7 @@ This repository aims to standardize a simple, zero-cleanup popcorn production pr
 -   :recycle: **Zero Cleanup**: Completely eliminates the "washing dishes" dependency.
 -   :star: **Delicious**: Provides an excellent user experience.
 
-****
+---
 
 -   :zap: **簡単なデプロイ**: 驚くほど簡単にビルド可能。
 -   :fire: **安定したビルド**: 焦げ付きエラーを回避。
